@@ -1,16 +1,85 @@
-# React + Vite
+# WorkFlow – Business Management Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WorkFlow is a SaaS platform designed to simplify company management by bringing projects, tasks, teams, and business activities together in one place.
 
-Currently, two official plugins are available:
+The goal is to build a modern, intuitive, and scalable platform that helps teams organize their work and improve collaboration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Project Overview
 
-## React Compiler
+WorkFlow is a personal portfolio project developed as part of my learning journey in full-stack web development.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The application is currently under development, starting with the frontend dashboard.
 
-## Expanding the ESLint configuration
+## Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Current implementation:**
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+**Planned technologies:**
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+## Current Features
+
+- Dashboard interface
+- Sidebar navigation
+- Dashboard components
+- Initial application structure
+
+## Planned Features
+
+- User authentication and authorization
+- Project management
+- Task management
+- Team management
+- Role-based access control
+- REST API integration
+- Database management
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/riteeej/workFlow.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd workFlow
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to access the application.
+
+## Project Status
+
+Currently under development.
+
+More features and improvements will be added progressively as the project evolves.
+
+## Author
+
+**Ritej Brahim**
+
+Computer Science Student | Full-Stack Development Enthusiast
+
+GitHub: https://github.com/riteeej
